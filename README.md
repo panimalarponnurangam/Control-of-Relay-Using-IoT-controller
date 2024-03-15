@@ -1,4 +1,3 @@
-![Screenshot 2024-03-15 105607](https://github.com/panimalarponnurangam/Control-of-Relay-Using-IoT-controller/assets/121490826/2146f5e6-03a3-491d-b789-2d517c88775b)![Screenshot 2024-03-15 105744](https://github.com/panimalarponnurangam/Control-of-Relay-Using-IoT-controller/assets/121490826/95dec9c8-9017-437f-9e74-d93e735a9e0c)# Control-of-Relay-Using-IoT-controller
 
 ##  AIM:
 To control the Relay using Arduino controller
