@@ -1,5 +1,6 @@
 
-##  AIM:
+## CONTROL OF RELAY USING IoT CONTROLLER
+##AIM:
 To control the Relay using Arduino controller
 
 ## Software required:
